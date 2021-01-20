@@ -1,0 +1,8 @@
+type Query {
+  users: [User] @authen
+}
+
+type Mutation {
+  login(userName: String!, password: String!): ResultLogin
+  register(inputUser: InputUser!): Boolean
+}
