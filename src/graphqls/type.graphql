@@ -6,3 +6,9 @@ type User {
   createdAt: Float
   craetedBy: CreatedByUser
 }
+
+type Area {
+  _id: String
+  images: [String]
+}
+

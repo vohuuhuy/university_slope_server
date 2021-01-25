@@ -1,4 +1,4 @@
-import { Resolver, Mutation, Args, Query } from '@nestjs/graphql'
+import { Resolver, Mutation, Args, Query, Context } from '@nestjs/graphql'
 import R from '@resource'
 import { ApolloError } from 'apollo-server-express'
 import { getMongoRepository } from 'typeorm'
@@ -21,6 +21,17 @@ export class UserResolve {
     }
   }
 
+  @Query('me')
+  async me(
+    @Context('currentUser') currentUser: User
+  ): Promise<User | ApolloError> {
+    try {
+      return currentUser
+    } catch (error) {
+      throw new ApolloError(error)
+    }
+  }
+
   @Mutation('login')
   async login(@Args() args): Promise<ResultLogin> {
     try {
@@ -29,9 +40,9 @@ export class UserResolve {
         userName,
         isBlock: false
       })
-      if (!userExisted) throw new ApolloError('userName not found')
-      const checkPassword = await Bcrypt.compare(password, userExisted.password)
-      if (!checkPassword) throw new ApolloError('password not success')
+      if (!userExisted) throw new ApolloError('Tài khoản không tồn tại')
+      const checkPassword = await Bcrypt.compare((await CryptoJS.SHA256(password).toString()), userExisted.password)
+      if (!checkPassword) throw new ApolloError('Mật khẩu không chính xác')
       return {
         authorization: await jsonWebToken.sign(
           {
@@ -60,8 +71,8 @@ export class UserResolve {
         isBlock: false
       })
 
-      if (userExisted) throw new ApolloError('userName existed')
-      if (emailExisted) throw new ApolloError('email existed')
+      if (userExisted) throw new ApolloError('Tài khoản đã tồn tại')
+      if (emailExisted) throw new ApolloError('Email đã tồn tại')
 
       const passHashByCryptoJS = await CryptoJS.SHA256(password).toString()
       const passHashByBrypt = await Bcrypt.hashSync(passHashByCryptoJS, R.Variables.JSON_SALTROUND)
