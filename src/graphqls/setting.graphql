@@ -1,0 +1,9 @@
+type Setting {
+  _id: ID
+  appVersion: String
+  dataVersion: String
+}
+
+type Query {
+  checkVersion: Setting
+}
