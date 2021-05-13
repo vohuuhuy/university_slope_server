@@ -1,0 +1,30 @@
+type Component {
+  _id: String
+  code: String
+  name: String
+  coordinate: [Float]
+  images: [String]
+  search: ComponentSearch
+  map: JSON
+  style: ComponentStyle
+  zooms: [Float]
+  childs: [ComponentChild]
+}
+
+type ComponentSearch {
+  data: String
+}
+
+type ComponentStyle {
+  line: JSON
+  fill: JSON
+}
+
+type ComponentChild {
+  _id: String
+  coordinate: [Float]
+}
+
+type Query {
+  components: [Component]!
+}

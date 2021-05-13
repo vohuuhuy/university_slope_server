@@ -1,0 +1,12 @@
+type Subscription {
+  subApp(
+    # DownloadData
+    publicProcess: [String]!,
+    privateProcess: [String]!
+  ): SubResponse
+}
+
+type SubResponse {
+  process: String
+  data: JSON
+}

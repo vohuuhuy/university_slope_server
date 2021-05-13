@@ -18,7 +18,6 @@ const Graphql: GqlModuleAsyncOptions = {
     context: async ({ req }) => {
       let currentUser
       const token = req.headers.authorization || ''
-      console.log(token)
       if (token) {
         const { userId } = jsonWebToken.verify(token, R.Variables.JSON_SECRETKEY)
         if (userId) {

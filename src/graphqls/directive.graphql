@@ -1,1 +1,3 @@
+scalar JSON
+
 directive @authen on FIELD_DEFINITION
