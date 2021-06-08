@@ -4,7 +4,7 @@
     "code": "G1",
     "name": "Giảng đường G1",
     "coordinate": [109.20379981398582, 12.268958798372458],
-    "images": ["g1-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -34,22 +34,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g1 giang duong 1 phong thuc hanh vat ly"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "4e3dbeea-b31b-11eb-8529-0242ac130003",
     "code": "G2",
     "name": "Giảng đường G2",
-    "coordinate": [109.20403718948364, 12.268097815013277],
-    "images": ["g2-1"],
+    "coordinate": [109.2039030790329, 12.2681449922565],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -84,22 +89,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g2 giang duong 2"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "30448584-b31d-11eb-8529-0242ac130003",
     "code": "G3",
     "name": "Giảng đường G3",
-    "coordinate": [109.2036160826683, 12.267227655456905],
-    "images": ["g3-1", "g3-2", "g3-3", "g3-4"],
+    "coordinate": [109.2036160826683, 12.267257655556905],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -125,21 +135,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g3 giang duong 3"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8531e064-b31d-11eb-8529-0242ac130003",
     "code": "G4",
     "name": "Giảng đường G4",
-    "coordinate": [109.20126110315323, 12.266776848773624],
+    "coordinate": [109.20128210315323, 12.266776848773624],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -166,21 +181,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g4 giang duong 4"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "9ef4da60-b31d-11eb-8529-0242ac130003",
     "code": "G5",
     "name": "Giảng đường G5",
-    "coordinate": [109.20108273625374, 12.267146405472124],
+    "coordinate": [109.20108273625374, 12.267156405472124],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -222,15 +242,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g5 giang duong 5"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "fa0f593e-b31d-11eb-8529-0242ac130003",
@@ -277,15 +302,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g6 giang duong 6"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "80c28afa-b31e-11eb-8529-0242ac130003",
@@ -341,22 +371,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g7 giang duong 7"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f522a26-b31e-11eb-8529-0242ac130003",
     "code": "G8",
     "name": "Giảng đường G8",
     "coordinate": [109.20139521360397, 12.268530272759982],
-    "images": ["g8-1", "g8-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -386,15 +421,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "g8 giang duong 8 phong thuc hanh tin hoc phong may"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f523890-b31e-11eb-8529-0242ac130003",
@@ -427,15 +467,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c19c7e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c19c7e55"
+      },
+      "title": {
+        "color": "#c19c7e"
       }
     },
     "search": {
       "data": "nha da nang khoa cong nghe thong tin"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f523a70-b31e-11eb-8529-0242ac130003",
@@ -468,15 +513,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k1 ky tuc xa 1"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f523bf6-b31e-11eb-8529-0242ac130003",
@@ -509,21 +559,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k2 ky tuc xa 2"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f523d68-b31e-11eb-8529-0242ac130003",
     "code": "K3",
     "name": "Ký túc xá K3",
-    "coordinate": [109.20200675725937, 12.269099019140171],
+    "coordinate": [109.20200675725937, 12.269109019140171],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -550,22 +605,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k3 ky tuc xa 3"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f524344-b31e-11eb-8529-0242ac130003",
     "code": "K4",
     "name": "Ký túc xá K4",
-    "coordinate": [109.20202150940895, 12.268835613711206],
-    "images": ["k4-1"],
+    "coordinate": [109.20202150940895, 12.268838613711206],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -591,21 +651,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k4 ky tuc xa 4"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f5244e8-b31e-11eb-8529-0242ac130003",
     "code": "K5",
     "name": "Ký túc xá K5",
-    "coordinate": [109.20135363936424, 12.268986318342098],
+    "coordinate": [109.20135363936424, 12.268965318342098],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -640,22 +705,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k5 ky tuc xa 5"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f52475e-b31e-11eb-8529-0242ac130003",
     "code": "K6",
     "name": "Ký túc xá K6",
     "coordinate": [109.20419778674841, 12.267605074412558],
-    "images": ["k6-1", "k6-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -681,15 +751,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k6 ky tuc xa 6"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f5249d4-b31e-11eb-8529-0242ac130003",
@@ -730,15 +805,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k7 ky tuc xa 7"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f524cfe-b31e-11eb-8529-0242ac130003",
@@ -775,22 +855,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#0056a2"
+        "lineColor": "#7e8cc155"
       },
       "fill": {
-        "fillColor": "#0074d95c"
+        "fillColor": "#7e8cc155"
+      },
+      "title": {
+        "color": "#7e8cc1"
       }
     },
     "search": {
       "data": "k8 ky tuc xa 8"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f524e66-b31e-11eb-8529-0242ac130003",
     "code": "SVD",
     "coordinate": [109.20311719179153, 12.268311423019295],
     "name": "Sân vận động",
-    "images": ["sanco-1", "sanco-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -816,22 +901,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
     },
     "search": {
       "data": "san van dong san co nhan tao san bong san the duc"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f524fce-b31e-11eb-8529-0242ac130003",
     "code": "TV",
     "name": "Thư viện",
     "coordinate": [109.20373544096947, 12.26954457996284],
-    "images": ["thuvien-1", "thuvien-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -877,22 +967,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
     },
     "search": {
       "data": "thu vien"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f525136-b31e-11eb-8529-0242ac130003",
     "code": "KHC",
     "name": "Khu hành chính",
-    "coordinate": [109.20197188854218, 12.26741898596725],
-    "images": ["nhahanhchinh-1"],
+    "coordinate": [109.20197188854218, 12.26742898596725],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -918,22 +1013,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "day nha hanh chinh noi dong tien hoc phi dag ky bang lai xe phong tai chinh sinh vien ke hoach sinh vien cong tac sinh vien"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f5254d8-b31e-11eb-8529-0242ac130003",
     "code": "NTT",
     "name": "Nhà truyền thống",
     "coordinate": [109.20264512300491, 12.267266969956665],
-    "images": ["nhatruyenthong-1", "nhatruyenthong-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -966,21 +1066,27 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
     },
     "search": {
       "data": "nha truyen thong"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [16.5, 19]
   },
   {
     "_id": "8f5255b4-b31e-11eb-8529-0242ac130003",
-    "code": "KTH1",
+    "code": "T1",
     "name": "Khu tự học 1",
-    "images": ["khutuhoc1-1", "khutuhoc1-2"],
+    "coordinate": [109.2028234899044, 12.267222413523157],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1006,20 +1112,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c1c07e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c1c07e55"
+      },
+      "title": {
+        "color": "#c1c07e"
       }
     },
     "search": {
       "data": "khu tu hoc 1 gan cay xi gan nha truyen thong"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [16.5, 19]
   },
   {
     "_id": "8f525726-b31e-11eb-8529-0242ac130003",
-    "code": "KTH2",
-    "name": "Khu tự học2",
+    "code": "T2",
+    "name": "Khu tự học 2",
+    "coordinate": [109.20107737183571, 12.266880377120854],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -1046,17 +1158,23 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c1c07e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c1c07e55"
+      },
+      "title": {
+        "color": "#c1c07e"
       }
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [16.5, 19]
   },
   {
     "_id": "8f52588e-b31e-11eb-8529-0242ac130003",
     "name": "Khu tự học 3",
-    "code": "KTH3",
+    "code": "T3",
+    "coordinate": [109.20207391462564, 12.266736345708855],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -1083,19 +1201,24 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#c1c07e55"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#c1c07e55"
+      },
+      "title": {
+        "color": "#c1c07e"
       }
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [16.5, 19]
   },
   {
     "_id": "8f525b4a-b31e-11eb-8529-0242ac130003",
     "code": "A2",
     "name": "Trung tâm thí nghiệm thực hành",
     "coordinate": [109.2026437819004, 12.266979973973475],
-    "images": ["sauhoitruong2-1", "sauhoitruong2-2", "sauhoitruong2-3"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1155,15 +1278,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#7eb1c155"
+      },
+      "title": {
+        "color": "#7eb1c1"
       }
     },
     "search": {
       "data": "trung tam thi nghiem thuc hanh phong ly tam phong phong chuan bi mau phong phan tich moi truong phong thi nghiem hoa dai cuong"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f525f6e-b31e-11eb-8529-0242ac130003",
@@ -1195,12 +1323,16 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#7eb1c155"
+      },
+      "title": {
+        "color": "#7eb1c1"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f52616c-b31e-11eb-8529-0242ac130003",
@@ -1233,22 +1365,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "hoi truong 1"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f526504-b31e-11eb-8529-0242ac130003",
     "code": "HT2",
     "name": "Hội trường 2",
     "coordinate": [109.20232191681862, 12.267177857082105],
-    "images": ["hoitruong2-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1274,40 +1410,48 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "hoi truong 2"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f52666c-b31e-11eb-8529-0242ac130003",
-    "code": "HT 3",
+    "code": "HT3",
     "name": "Hội trường 3",
     "coordinate": [109.1992212831974, 12.2691776475754],
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "hoi truong 3"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f526720-b31e-11eb-8529-0242ac130003",
-    "code": "HT 4",
+    "code": "HT4",
     "coordinate": [109.20159503817558, 12.268108298845833],
     "name": "Hội trường 4",
-    "images": ["gang8-1-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1333,22 +1477,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "hoi truong 4"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f526892-b31e-11eb-8529-0242ac130003",
     "code": "B3",
     "name": "Tòa nhà B3",
     "coordinate": [109.20316949486732, 12.267428159344398],
-    "images": ["b3-1", "b3-2", "b3-3"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1399,21 +1547,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#7eb1c155"
+      },
+      "title": {
+        "color": "#7eb1c1"
       }
     },
     "search": {
       "data": "b3"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f526946-b31e-11eb-8529-0242ac130003",
     "code": "TTGVDBTS",
     "name": "Trung tâm giống và dịch bệnh thuỷ sản",
-    "coordinate": [109.20358389616011, 12.268252451501196],
+    "coordinate": [109.20358389616011, 12.268182451501196],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -1441,15 +1594,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#795548"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#79554836"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
     },
     "search": {
       "data": "trung tam giong va dich benh thuy san"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [17, 19]
   },
   {
     "_id": "8f526c16-b31e-11eb-8529-0242ac130003",
@@ -1481,18 +1639,23 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [17, 19]
   },
   {
     "_id": "8f526d88-b31e-11eb-8529-0242ac130003",
     "code": "MISS2",
     "name": "Chưa có dữ liệu",
-    "images": ["ganthuvien2-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1518,18 +1681,22 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f526ef0-b31e-11eb-8529-0242ac130003",
     "code": "MISS3",
     "name": "Chưa có dữ liệu",
-    "images": ["xuong1-1", "xuong1-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1555,18 +1722,22 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#7eb1c155"
+      },
+      "title": {
+        "color": "#7eb1c1"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f527166-b31e-11eb-8529-0242ac130003",
     "code": "MISS4",
     "name": "Chưa có dữ liệu",
-    "images": ["xuong2-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1603,12 +1774,16 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
+        "fillColor": "#7eb1c155"
+      },
+      "title": {
+        "color": "#7eb1c1"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f5272d8-b31e-11eb-8529-0242ac130003",
@@ -1644,19 +1819,23 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
-    "id": "8f527440-b31e-11eb-8529-0242ac130003",
+    "_id": "8f527440-b31e-11eb-8529-0242ac130003",
     "code": "NTD",
     "name": "Nhà thi đấu",
     "coordinate": [109.2022468149662, 12.268154165608369],
-    "images": ["stadium2-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1731,21 +1910,25 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
     },
     "search": {
       "data": "nha thi dau san bong trong nha"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f5275a8-b31e-11eb-8529-0242ac130003",
     "code": "MISS5",
     "name": "Chưa có dữ liệu",
-    "images": ["trainhathidau2-1-1"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1771,12 +1954,16 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f5278b4-b31e-11eb-8529-0242ac130003",
@@ -1808,19 +1995,23 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f527a1c-b31e-11eb-8529-0242ac130003",
     "code": "A8",
     "name": "Trung tâm phục vụ trường học",
     "coordinate": [109.20169830322266, 12.267827856181258],
-    "images": ["a8-1", "a8-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1846,15 +2037,19 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#f44336"
+        "lineColor": "#c17ea955"
       },
       "fill": {
-        "fillColor": "#f4433659"
+        "fillColor": "#c17ea955"
+      },
+      "title": {
+        "color": "#c17ea9"
       }
     },
     "search": {
       "data": "trung tam phuc vu truong hoc"
-    }
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f527c38-b31e-11eb-8529-0242ac130003",
@@ -1909,102 +2104,7 @@
               ]
             ]
           }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#795548"
-      },
-      "fill": {
-        "fillColor": "#79554836"
-      }
-    },
-    "search": {
-      "data": "khu nha da"
-    }
-  },
-  {
-    "_id": "8f527f44-b31e-11eb-8529-0242ac130003",
-    "code": "MISS8",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "_id": "8f527ff8-b31e-11eb-8529-0242ac130003",
-          "type": "Feature",
-          "properties": {},
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [109.19980734586716, 12.26850013178852],
-                [109.19978857040405, 12.268390051689568],
-                [109.19983953237532, 12.26837956786822],
-                [109.19986501336098, 12.268492268925838],
-                [109.19980734586716, 12.26850013178852]
-              ]
-            ]
-          }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#795548"
-      },
-      "fill": {
-        "fillColor": "#79554836"
-      }
-    }
-  },
-  {
-    "_id": "8f5280ac-b31e-11eb-8529-0242ac130003",
-    "code": "MISS9",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [{
-        "_id": "8f528160-b31e-11eb-8529-0242ac130003",
-        "type": "Feature",
-        "properties": {},
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [109.19926688075066, 12.268552550867096],
-              [109.19921725988388, 12.268298318238642],
-              [109.19928565621376, 12.268289144891787],
-              [109.19933393597601, 12.268542067052211],
-              [109.19926688075066, 12.268552550867096]
-            ]
-          ]
-        }
-      }]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#795548"
-      },
-      "fill": {
-        "fillColor": "#79554836"
-      }
-    }
-  },
-  {
-    "_id": "8f528214-b31e-11eb-8529-0242ac130003",
-    "code": "MISS10",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
+        },
         {
           "_id": "8f5282c8-b31e-11eb-8529-0242ac130003",
           "type": "Feature",
@@ -2021,27 +2121,7 @@
               ]
             ]
           }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#795548"
-      },
-      "fill": {
-        "fillColor": "#79554836"
-      }
-    }
-  },
-  {
-    "_id": "8f52837c-b31e-11eb-8529-0242ac130003",
-    "code": "MISS11",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
+        },
         {
           "_id": "8f528430-b31e-11eb-8529-0242ac130003",
           "type": "Feature",
@@ -2058,27 +2138,41 @@
               ]
             ]
           }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#795548"
-      },
-      "fill": {
-        "fillColor": "#79554836"
-      }
-    }
-  },
-  {
-    "_id": "8f528642-b31e-11eb-8529-0242ac130003",
-    "code": "MISS12",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
+        },
+        {
+          "_id": "8f527ff8-b31e-11eb-8529-0242ac130003",
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [109.19980734586716, 12.26850013178852],
+                [109.19978857040405, 12.268390051689568],
+                [109.19983953237532, 12.26837956786822],
+                [109.19986501336098, 12.268492268925838],
+                [109.19980734586716, 12.26850013178852]
+              ]
+            ]
+          }
+        },
+        {
+          "_id": "8f528160-b31e-11eb-8529-0242ac130003",
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [109.19926688075066, 12.268552550867096],
+                [109.19921725988388, 12.268298318238642],
+                [109.19928565621376, 12.268289144891787],
+                [109.19933393597601, 12.268542067052211],
+                [109.19926688075066, 12.268552550867096]
+              ]
+            ]
+          }
+        },
         {
           "_id": "8f5286f6-b31e-11eb-8529-0242ac130003",
           "type": "Feature",
@@ -2101,12 +2195,19 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#795548"
+        "lineColor": "#84c17e55"
       },
       "fill": {
-        "fillColor": "#79554836"
+        "fillColor": "#84c17e55"
+      },
+      "title": {
+        "color": "#84c17e"
       }
-    }
+    },
+    "search": {
+      "data": "khu nha da"
+    },
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f5287aa-b31e-11eb-8529-0242ac130003",
@@ -2138,7 +2239,12 @@
                 [109.19956728816032, 12.269112123881001],
                 [109.19952303171158, 12.269125228621197],
                 [109.19952973723412, 12.269151438099604],
-                [109.19914349913597, 12.269282485452525]
+                [109.19914349913597, 12.269282485452525],
+                [109.1991327702999, 12.268774021358963],
+                [109.19922262430191, 12.268742569939509],
+                [109.19926151633263, 12.268830371809443],
+                [109.19916227459908, 12.268859202267812],
+                [109.1991327702999, 12.268774021358963]
               ]
             ]
           }
@@ -2148,112 +2254,23 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#c76815"
+        "lineColor": "#7eb1c155"
       },
       "fill": {
-        "fillColor": "#ff851b59"
-      }
-    }
-  },
-  {
-    "_id": "8f528912-b31e-11eb-8529-0242ac130003",
-    "code": "MISS14",
-    "name": "Chưa có dữ liệu",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "_id": "8f5289c6-b31e-11eb-8529-0242ac130003",
-          "type": "Feature",
-          "properties": {},
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  109.1991327702999,
-                  12.268774021358963
-                ],
-                [
-                  109.19922262430191,
-                  12.268742569939509
-                ],
-                [
-                  109.19926151633263,
-                  12.268830371809443
-                ],
-                [
-                  109.19916227459908,
-                  12.268859202267812
-                ],
-                [
-                  109.1991327702999,
-                  12.268774021358963
-                ]
-              ]
-            ]
-          }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#f44336"
+        "fillColor": "#7eb1c155"
       },
-      "fill": {
-        "fillColor": "#f4433659"
-      }
-    }
-  },
-  {
-    "_id": "8f528a7a-b31e-11eb-8529-0242ac130003",
-    "code": "NX1",
-    "name": "Nhà để xe 1",
-    "coordinate": [109.19927626848221, 12.267780678881255],
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "_id": "8f528cdc-b31e-11eb-8529-0242ac130003",
-          "type": "Feature",
-          "properties": {},
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [109.19920921325684, 12.267962835631847],
-                [109.19912874698639, 12.267757090228086],
-                [109.19950157403946, 12.26760769537564],
-                [109.19958874583244, 12.267819993298513],
-                [109.19920921325684, 12.267962835631847]
-              ]
-            ]
-          }
-        }
-      ]
-    },
-    "style": {
-      "line": {
-        "lineWidth": 1,
-        "lineColor": "#276247"
-      },
-      "fill": {
-        "fillColor": "#3d997063"
+      "title": {
+        "color": "#7eb1c1"
       }
     },
-    "search": {
-      "data": "nha de xe"
-    }
+    "zooms": [15.5, 19]
   },
   {
     "_id": "8f528da4-b31e-11eb-8529-0242ac130003",
-    "code": "NX2",
-    "name": "Nhà để xe 2",
+    "code": "N1",
+    "name": "Nhà xe 1",
     "coordinate": [109.20132011175156, 12.268753053746417],
-    "images": ["nhaxe-2-1", "nhaxe-2-2"],
+    "images": [],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -2282,21 +2299,72 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#f0e7bc99"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#f0e7bc99"
+      },
+      "title": {
+        "color": "#f44336"
       }
     },
     "search": {
       "data": "nha de xe"
-    }
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
+  },
+  {
+    "_id": "8f528a7a-b31e-11eb-8529-0242ac130003",
+    "code": "N2",
+    "name": "Nhà xe 2",
+    "coordinate": [109.19937626848221, 12.267785678881255],
+    "images": [],
+    "map": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "_id": "8f528cdc-b31e-11eb-8529-0242ac130003",
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [109.19920921325684, 12.267962835631847],
+                [109.19912874698639, 12.267757090228086],
+                [109.19950157403946, 12.26760769537564],
+                [109.19958874583244, 12.267819993298513],
+                [109.19920921325684, 12.267962835631847]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "style": {
+      "line": {
+        "lineWidth": 1,
+        "lineColor": "#f0e7bc99"
+      },
+      "fill": {
+        "fillColor": "#f0e7bc99"
+      },
+      "title": {
+        "color": "#f44336"
+      }
+    },
+    "search": {
+      "data": "nha de xe"
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f528f16-b31e-11eb-8529-0242ac130003",
-    "code": "NX3",
-    "coordinate": [109.20041084289551, 12.267780678881255],
-    "name": "Nhà để xe 3",
+    "code": "N3",
+    "coordinate": [109.20043084289551, 12.267680678881255],
+    "name": "Nhà để 3",
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -2323,18 +2391,26 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#f0e7bc99"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#f0e7bc99"
+      },
+      "title": {
+        "color": "#f44336"
       }
-    }
+    },
+    "search": {
+      "data": "nha de xe"
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f529074-b31e-11eb-8529-0242ac130003",
-    "code": "NX4",
-    "name": "Nhà để xe 4",
-    "coordinate": [109.19950693845749, 12.268881480347115],
+    "code": "N4",
+    "name": "Nhà để 4",
+    "coordinate": [109.19957153845749, 12.268881480347115],
     "images": [],
     "map": {
       "type": "FeatureCollection",
@@ -2363,58 +2439,20 @@
     "style": {
       "line": {
         "lineWidth": 1,
-        "lineColor": "#276247"
+        "lineColor": "#f0e7bc99"
       },
       "fill": {
-        "fillColor": "#3d997063"
+        "fillColor": "#f0e7bc99"
+      },
+      "title": {
+        "color": "#f44336"
       }
-    }
-  },
-  {
-    "_id": "8f5291dc-b31e-11eb-8529-0242ac130003",
-    "code": "CT",
-    "title": "Cổng trước",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "_id": "8f5293d0-b31e-11eb-8529-0242ac130003",
-          "type": "Feature",
-          "properties": {},
-          "geometry": {
-            "type": "LineString",
-            "coordinates": [
-              [109.20090168714523, 12.268535514667711],
-              [109.2009687423706, 12.268564345158344]
-            ]
-          }
-        }
-      ]
-    }
-  },
-  {
-    "_id": "8f52948e-b31e-11eb-8529-0242ac130003",
-    "code": "CS",
-    "name": "Cổng sau",
-    "images": [],
-    "map": {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "_id": "8f529542-b31e-11eb-8529-0242ac130003",
-          "type": "Feature",
-          "properties": {},
-          "geometry": {
-            "type": "LineString",
-            "coordinates": [
-              [109.20480698347092, 12.26718571998401],
-              [109.2048391699791, 12.267227655456905]
-            ]
-          }
-        }
-      ]
-    }
+    },
+    "search": {
+      "data": "nha de xe"
+    },
+    "zooms": [15.5, 19],
+    "titleZomms": [15.5, 19]
   },
   {
     "_id": "8f5295f6-b31e-11eb-8529-0242ac130003",

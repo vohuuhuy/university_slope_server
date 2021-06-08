@@ -8,6 +8,7 @@ type Component {
   map: JSON
   style: ComponentStyle
   zooms: [Float]
+  titleZooms: [Float]
   childs: [ComponentChild]
 }
 

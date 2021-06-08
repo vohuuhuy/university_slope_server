@@ -30,6 +30,9 @@ export class ComponentEntity {
   zooms: number[]
 
   @Column()
+  titleZooms: number[]
+
+  @Column()
   childs: { _id: string, coordinate: number[] }[]
 
   constructor(area: any) {
