@@ -24,7 +24,7 @@ export class ComponentEntity {
   map: any
 
   @Column()
-  style: { line: any, fill: any }
+  style: { line: any, fill: any, title: any }
 
   @Column()
   zooms: number[]

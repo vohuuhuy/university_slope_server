@@ -19,6 +19,7 @@ type ComponentSearch {
 type ComponentStyle {
   line: JSON
   fill: JSON
+  title: JSON
 }
 
 type ComponentChild {
