@@ -1,0 +1,8 @@
+type Path {
+  _id: String
+  coordinates: JSON
+}
+
+type Query {
+  paths: [Path]!
+}

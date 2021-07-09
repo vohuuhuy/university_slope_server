@@ -35,9 +35,9 @@ export class ComponentEntity {
   @Column()
   childs: { _id: string, coordinate: number[] }[]
 
-  constructor(area: any) {
-    if (area) {
-      Object.assign(this, area)
+  constructor(component: any) {
+    if (component) {
+      Object.assign(this, component)
     }
   }
 }
