@@ -10,6 +10,7 @@ type Component {
   zooms: [Float]
   titleZooms: [Float]
   childs: [ComponentChild]
+  wayIns: JSON
 }
 
 type ComponentSearch {
