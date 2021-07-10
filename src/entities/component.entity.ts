@@ -38,6 +38,12 @@ export class ComponentEntity {
   @Column()
   wayIns: number[][][]
 
+  @Column()
+  type: string
+
+  @Column()
+  info: string
+
   constructor(component: any) {
     if (component) {
       Object.assign(this, component)

@@ -11,6 +11,8 @@ type Component {
   titleZooms: [Float]
   childs: [ComponentChild]
   wayIns: JSON
+  type: String
+  info: String
 }
 
 type ComponentSearch {
