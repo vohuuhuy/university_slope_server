@@ -1175,7 +1175,7 @@
     "code": "SVD",
     "coordinate": [109.20311719179153, 12.268311423019295],
     "name": "Sân vận động",
-    "images": [],
+    "images": ["sanco-1.jpg", "sanco-2.jpg"],
     "map": {
       "type": "FeatureCollection",
       "features": [
@@ -1822,7 +1822,7 @@
     "code": "B3",
     "name": "Tòa nhà B3",
     "coordinate": [109.20316949486732, 12.267428159344398],
-    "images": [],
+    "images": ["b3-1.jpg", "b3-2.jpg", "b3-3.jpg"],
     "map": {
       "type": "FeatureCollection",
       "features": [
