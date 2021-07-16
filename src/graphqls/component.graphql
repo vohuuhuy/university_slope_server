@@ -27,7 +27,7 @@ type ComponentStyle {
 
 type ComponentChild {
   type: String
-  coordinate: [Float]
+  coordinate: JSON
   zoom: [Float]
   properties: JSON
   symbol: ComponentChildSymbol

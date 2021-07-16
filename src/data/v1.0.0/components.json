@@ -1329,41 +1329,43 @@
     "search": {
       "data": "day nha hanh chinh noi dong tien hoc phi dag ky bang lai xe phong tai chinh sinh vien ke hoach sinh vien cong tac sinh vien"
     },
-    "childs": {
-      "type": "Polygon",
-      "coordinate": [
-        [
+    "childs": [
+      {
+        "type": "Polygon",
+        "coordinate": [
           [
-            109.20156352221966,
-            12.267399328729443
-          ],
-          [
-            109.20167550444603,
-            12.267399328729443
-          ],
-          [
-            109.20167550444603,
-            12.267487131046982
-          ],
-          [
-            109.20156352221966,
-            12.267487131046982
-          ],
-          [
-            109.20156352221966,
-            12.267399328729443
+            [
+              109.20156352221966,
+              12.267399328729443
+            ],
+            [
+              109.20167550444603,
+              12.267399328729443
+            ],
+            [
+              109.20167550444603,
+              12.267487131046982
+            ],
+            [
+              109.20156352221966,
+              12.267487131046982
+            ],
+            [
+              109.20156352221966,
+              12.267399328729443
+            ]
           ]
-        ]
-      ],
-      "zoom": [18, 19],
-      "properties": {},
-      "symbol": {
-        "type": "title",
-        "title": "P1",
-        "image": "",
-        "style": {}
+        ],
+        "zoom": [18, 19],
+        "properties": {},
+        "symbol": {
+          "type": "title",
+          "title": "P1",
+          "image": "",
+          "style": {}
+        }
       }
-    },
+    ],
     "zooms": [15.5, 19],
     "titleZooms": [15.5, 19],
     "type": "Hành chính",
@@ -2943,20 +2945,22 @@
       }
     },
     "zooms": [15, 15],
-    "childs": {
-      "type": "Point",
-      "coordinate": [109.20247882604598, 12.268076847346917],
-      "zoom": [15, 15],
-      "properties": {},
-      "symbol": {
-        "type": "image",
-        "title": "",
-        "image": "../../assets/NTULogo50.png",
-        "style": {
-          "iconSize": 0.3
+    "childs": [
+      {
+        "type": "Point",
+        "coordinate": [109.20247882604598, 12.268076847346917],
+        "zoom": [15, 15],
+        "properties": {},
+        "symbol": {
+          "type": "image",
+          "title": "",
+          "image": "../../assets/NTULogo50.png",
+          "style": {
+            "iconSize": 0.3
+          }
         }
       }
-    },
+    ],
     "type": "",
     "info": ""
   }
