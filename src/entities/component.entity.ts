@@ -36,7 +36,7 @@ export class ComponentEntity {
   childs: {
     type: string,
     coordinates: any,
-    zoom: number[],
+    zooms: number[],
     properties: any,
     symbol: {
       type: string,

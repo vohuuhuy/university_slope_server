@@ -1356,7 +1356,7 @@
             ]
           ]
         ],
-        "zoom": [18, 19],
+        "zooms": [18, 19],
         "properties": {},
         "symbol": {
           "type": "title",
@@ -2949,7 +2949,7 @@
       {
         "type": "Point",
         "coordinates": [109.20247882604598, 12.268076847346917],
-        "zoom": [15, 15],
+        "zooms": [15, 15],
         "properties": {},
         "symbol": {
           "type": "image",
