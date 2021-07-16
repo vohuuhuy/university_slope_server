@@ -37,7 +37,7 @@ export class ComponentEntity {
     type: string,
     coordinates: any,
     zooms: number[],
-    properties: any,
+    style: { line: any, fill: any },
     symbol: {
       type: string,
       title: string,

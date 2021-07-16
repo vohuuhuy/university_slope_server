@@ -1357,7 +1357,15 @@
           ]
         ],
         "zooms": [18, 19],
-        "properties": {},
+        "style": {
+          "line": {
+            "lineWidth": 1,
+            "lineColor": "red"
+          },
+          "fill": {
+            "fillColor": "red"
+          }
+        },
         "symbol": {
           "type": "title",
           "title": "P1",
@@ -2950,7 +2958,10 @@
         "type": "Point",
         "coordinates": [109.20247882604598, 12.268076847346917],
         "zooms": [15, 15],
-        "properties": {},
+        "style": {
+          "line": {},
+          "fill": {}
+        },
         "symbol": {
           "type": "image",
           "title": "",

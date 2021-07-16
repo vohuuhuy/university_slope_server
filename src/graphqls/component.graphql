@@ -29,7 +29,7 @@ type ComponentChild {
   type: String
   coordinates: JSON
   zooms: [Float]
-  properties: JSON
+  properties: ComponentStyle
   symbol: ComponentChildSymbol
 }
 
