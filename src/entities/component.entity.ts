@@ -41,7 +41,8 @@ export class ComponentEntity {
     symbol: {
       type: string,
       title: string,
-      image: string
+      image: string,
+      style: any
     }
   }[]
 

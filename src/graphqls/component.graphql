@@ -37,6 +37,7 @@ type ComponentChildSymbol {
   type: String
   title: String
   image: String
+  style: JSON
 }
 
 type Query {

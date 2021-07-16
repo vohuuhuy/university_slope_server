@@ -1360,7 +1360,8 @@
       "symbol": {
         "type": "title",
         "title": "P1",
-        "image": ""
+        "image": "",
+        "style": {}
       }
     },
     "zooms": [15.5, 19],
@@ -2942,12 +2943,20 @@
       }
     },
     "zooms": [15, 15],
-    "childs": [
-      {
-        "id": "ntuBorder-child-logo",
-        "coordinate": [109.20247882604598, 12.268076847346917]
+    "childs": {
+      "type": "Point",
+      "coordinate": [109.20247882604598, 12.268076847346917],
+      "zoom": [15, 15],
+      "properties": {},
+      "symbol": {
+        "type": "image",
+        "title": "",
+        "image": "../../assets/NTULogo50.png",
+        "style": {
+          "iconSize": 0.3
+        }
       }
-    ],
+    },
     "type": "",
     "info": ""
   }
