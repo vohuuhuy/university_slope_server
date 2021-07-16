@@ -33,7 +33,17 @@ export class ComponentEntity {
   titleZooms: number[]
 
   @Column()
-  childs: { _id: string, coordinate: number[] }[]
+  childs: {
+    type: string,
+    coordinate: number[],
+    zoom: number[],
+    properties: any,
+    symbol: {
+      type: string,
+      title: string,
+      image: string
+    }
+  }[]
 
   @Column()
   wayIns: number[][][]
