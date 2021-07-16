@@ -35,7 +35,7 @@ export class ComponentEntity {
   @Column()
   childs: {
     type: string,
-    coordinate: any,
+    coordinates: any,
     zoom: number[],
     properties: any,
     symbol: {

@@ -1332,7 +1332,7 @@
     "childs": [
       {
         "type": "Polygon",
-        "coordinate": [
+        "coordinates": [
           [
             [
               109.20156352221966,
@@ -2948,7 +2948,7 @@
     "childs": [
       {
         "type": "Point",
-        "coordinate": [109.20247882604598, 12.268076847346917],
+        "coordinates": [109.20247882604598, 12.268076847346917],
         "zoom": [15, 15],
         "properties": {},
         "symbol": {
